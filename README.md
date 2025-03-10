@@ -6,10 +6,11 @@ Use the socket module exclusively for communication. DNS/mDNS packet implementat
   2. Include record types: SRV (service location), PTR (pointer), and A (address).
 
 ## Demo Application
-1. Monitoring Script
+### 1. Monitoring Script
+  
   Functionality:
 
-    Monitor one or more system resources (CPU load, memory usage, temperatures, etc.).
+    Monitor one or more system resources (CPU load, memory usage, etc.).
 
     Allow resource selection via a configurable interface.
 
@@ -23,7 +24,8 @@ Use the socket module exclusively for communication. DNS/mDNS packet implementat
 
     TXT records: Store real-time monitored values (e.g., cpu_load=45%).
 
-  2. Discovery Script
+  ### 2. Discovery Script
+
     Functionality:
 
       Detect available services in the local network.
