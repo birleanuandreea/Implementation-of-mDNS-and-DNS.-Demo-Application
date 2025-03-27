@@ -1,7 +1,7 @@
 # Implementation-of-mDNS-and-DNS-SD.-Demo-Application.
 
 ## Requirements:
-Use the socket module exclusively for communication. DNS/mDNS packet implementation:
+Use the socket module exclusively for communication. DNS-SD/mDNS packet implementation:
   1. Support DNS-SD (DNS Service Discovery) packet structures.
   2. Include record types: SRV (service location), PTR (pointer), and A (address).
 
