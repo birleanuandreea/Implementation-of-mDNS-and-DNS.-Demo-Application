@@ -1,4 +1,4 @@
-# Implementation-of-mDNS-and-DNS.-Demo-Application.
+# Implementation-of-mDNS-and-DNS-SD.-Demo-Application.
 
 ## Requirements:
 Use the socket module exclusively for communication. DNS/mDNS packet implementation:
